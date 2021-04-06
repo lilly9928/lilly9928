@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jieun Kim 
-- 👀 I’m founding my interest! 
-- 🌱 I’m currently learning Image processing
-- 📫 How to reach me ...
+-  👏Hi, I’m Jieun Kim 
+- 👩🏻‍💻 I’m master's course Student
+- 🌱 I’m currently learning Image processing ,OpenCV , Deep Learning. 
+- 📫 Content me! lilly9928@icloud.com 
 
 <!---
 lilly9928/lilly9928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
