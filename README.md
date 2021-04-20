@@ -1,6 +1,8 @@
 -  👏Hi, I’m Jieun Kim 
-- 👩🏻‍💻 I’m master's course Student
+- 👩🏻‍💻 I’m master's course Student in KMU, Korea
 - 🌱 I’m currently learning Image processing ,OpenCV , Deep Learning. 
+- 👩🏻‍💻 I can use javascript, python , c++ , c , kotlin , node.js ..etc
+- 
 - 📫 Content me! lilly9928@icloud.com 
 
 <!---
