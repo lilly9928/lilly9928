@@ -1,6 +1,8 @@
 - 👏 Hello, I’m Jieun Kim 
-- 👩🏻‍💻 I’m master's course student in Keimyung University, Korea :-) 
-- 🌟 I’m interesting in Image processing, Deep Learning, Computer Vison. 
+- 👩🏻‍💻 I’m master's course student in Keimyung University, Korea. 
+- 🌟 I’m interesting in Image processing, Deep Learning, Computer Vison.
+- 🌟 Also I like to develop application and web :-)
+
 - 😊 I can use JS, Python, Pytorch, Tenserflow ,C#,C++ , C , Kotlin .. etc
 
 - 📫 Content me! lilly9928@icloud.com ,www.linkedin.com/in/jieunnn
