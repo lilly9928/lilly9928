@@ -1,5 +1,4 @@
 - 👏 Hello, I’m Jieun Kim 
-- 👩🏻‍💻 I’m Ph.d course student in Yonsei University, Korea. 
 - 🌟 I’m interesting in Image processing, Deep Learning, Computer Vison, NLP.
 - 🌟 Also I like to develop application and web :-)
 
