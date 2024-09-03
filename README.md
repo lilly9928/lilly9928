@@ -4,7 +4,7 @@
 
 - 😊 I can use JS, Python, Pytorch, Tenserflow ,C#,C++ , C , Kotlin .. etc
 
-- 📫 Content me! lilly9928@icloud.com ,www.linkedin.com/in/jieunnn
+- 📫 Content me! lilly9928@yonsei.ac.kr ,www.linkedin.com/in/jieunnn
 
 <!---
 lilly9928/lilly9928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
