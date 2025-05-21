@@ -1,5 +1,5 @@
 - 👏 Hello, I’m Jieun Kim 
-- 🌟 I’m interesting in Image processing, Deep Learning, Computer Vison, NLP.
+- 🌟 I’m interesting in Computer Vision, Mulitmodal, Neural Symbolic Approach.
 - 🌟 Also I like to develop application and web :-)
 
 - 😊 I can use JS, Python, Pytorch, Tenserflow ,C#,C++ , C , Kotlin .. etc
